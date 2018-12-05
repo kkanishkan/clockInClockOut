@@ -1,3 +1,3 @@
 # clockInClockOut
 
-# Can pull employee data using json and their ID #
+Can pull employee data using json and their ID #
